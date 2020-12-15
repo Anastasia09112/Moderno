@@ -1,4 +1,4 @@
-# Проект «Moderno»
+# Moderno
 
 ![logo](https://user-images.githubusercontent.com/60625771/102248754-99f71480-3f12-11eb-809d-097230b4484c.png)
 
